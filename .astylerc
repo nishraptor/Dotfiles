@@ -1,0 +1,18 @@
+--style=stroustrup      # this is a line-end comment
+--indent=spaces=2
+--max-code-length=120
+--break-after-logical
+--indent-namespaces
+--break-blocks
+--keep-one-line-blocks
+--squeeze-lines=1
+--squeeze-ws
+--align-pointer=type
+--convert-tabs
+--pad-oper
+--break-one-line-headers
+--unpad-brackets
+--unpad-paren
+--pad-header
+--indent-classes
+--convert-tabs
